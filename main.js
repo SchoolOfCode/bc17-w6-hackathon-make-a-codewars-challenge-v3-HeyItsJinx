@@ -18,3 +18,7 @@ for (let i = 0; i < word.length; i++) {
 		}
 	      {return count;
 }
+
+export function sum(a, b) {
+    return a + b
+}
