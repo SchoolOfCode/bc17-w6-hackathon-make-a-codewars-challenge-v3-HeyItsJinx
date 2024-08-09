@@ -12,4 +12,4 @@ test('total number of letters in the word', async () => {
         const actualCount = wordLength(word);
         expect(actualCount).toBe(expectedCount);
         console.log(`Test for word "${word}": expected ${expectedCount}, got ${result}`)
-    }
+    }})
