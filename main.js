@@ -3,7 +3,7 @@
 //     const count = {};
 // }
 
-function wordLength(word) {
+export function wordLength(word) {
 	let counter = 0; for (let i = 0; i < word.length; i++) {
 		counter++;
 	}
