@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "vitest"
-    
   },
   "author": "School of Code",
   "license": "ISC",
   "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.1.0",
+    "playwright": "^1.46.0",
     "vitest": "^2.0.5"
   }
 }
