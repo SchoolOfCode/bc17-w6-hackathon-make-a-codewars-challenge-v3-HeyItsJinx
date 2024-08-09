@@ -61,13 +61,13 @@ An empty string.
 A string with all identical letters.
 A string with different letters.
 ---------------------------------------
-7. Implementing Tests:
+6. Implementing Tests:
 Think about writing tests to ensure your function works correctly. For example:
 
 Test with "hello" to ensure it counts each letter accurately.
 Test with an empty string to check if it handles no input properly.
 -----------------------------------------------------------------------
-8. Run and Debug:
+7. Run and Debug:
 Run the Function: Test it with various inputs.
 Debug: If it doesn’t work as expected, debug by checking intermediate values and logic.
 If you get stuck or need clarification on any part of this process, just let me know. I’m here to help!
